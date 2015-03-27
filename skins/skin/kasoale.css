@@ -30,9 +30,9 @@ body {
 @import url(/eXoResources/skin/DefaultSkin/webui/component/Stylesheet.css);
 
 /*Overwritten WebUI Components*/
-@import url(ResponsiveSkin/portal/webui/component/UIPortal/UIPortalApplicationSkin.css);
+@import "UIPortal/UIPortalApplicationSkin.css";
 
-@import url(ResponsiveSkin/portal/webui/component/UIPortal/UIPortalComponents.css);
+@import "UIPortal/UIPortalComponents.css";
 
 @import url(ResponsiveSkin/portal/webui/component/UIWorkspace/UIWorkspace.css);
 
@@ -54,7 +54,7 @@ body {
 
 @import url(ResponsiveSkin/portal/webui/component/UIFormWithTitle/UIFormWithTitle.css);
 
-@import url(ResponsiveSkin/portal/webui/component/UITab/UITab.css);
+@import "UITab/UITab.css";
 
 @import url(ResponsiveSkin/portal/webui/component/UIDashboard/UIDashboard.css);
 
@@ -64,7 +64,7 @@ body {
 
 @import "UIBannerPortlet/UIBannerPortlet.css";
 
-@import url(ResponsiveSkin/portal/webui/component/UIPageBrowser/UIPageBrowser.css);
+@import "UIPageBrowser/UIPageBrowser.css";
 
 @import url(ResponsiveSkin/portal/webui/component/EditInline/EditInline.css);
 
