@@ -1,9 +1,9 @@
 
-body {
-	background: red;
-}
+/* body { */
+/* 	background: red; */
+/* } */
 /*@import url(/eXoResources/skin/DefaultSkin/portal/webui/component/UIPortalApplicationSkin.css); */
-@import url(/eXoResources/skin/DefaultSkin/portal/webui/component/view/Stylesheet.css);
+@import "portal/webui/component/view/Stylesheet.css";
 
 /*@import url(/eXoResources/skin/DefaultSkin/portal/webui/component/customization/Stylesheet.css);*/
 @import url(/eXoResources/skin/DefaultSkin/portal/webui/component/customization/UIContainerList/Stylesheet.css);
